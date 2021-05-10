@@ -1,11 +1,5 @@
 Binaries
 Build
-Content/Geometry
-Content/InfinityBladeEffects
-Content/Mannequin
-Content/ThirdPerson
-Content/ThirdPersonCPP
-Content/Weapon_Pack
 DerivedDataCache
 Intermediate
 Package
@@ -20,3 +14,10 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Geometry
+Content/InfinityBladeEffects
+Content/Mannequin
+Content/ThirdPerson
+Content/ThirdPersonCPP
+Content/Weapon_Pack
+Content/MedievalDungeon
